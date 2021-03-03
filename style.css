@@ -1,0 +1,52 @@
+p {
+  color: green;
+}
+
+.img-container {
+  width: 500px;
+}
+
+.img-container img {
+  width: 100%;
+}
+
+.top-container {
+  display: flex;
+  background-color: rgb(83, 81, 81);
+  padding: 30px;
+}
+
+ul {
+  color: white;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+body {
+  width: 70%;
+  margin: auto;
+  font-family: "PT Sans", sans-serif;
+}
+
+#title {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+.cell-number {
+  text-align: right;
+}
